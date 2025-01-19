@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using src.factory;
+using SystemDesignPattern.src.creational.factory;
 
 namespace SystemDesignPattern
 {
@@ -8,8 +8,8 @@ namespace SystemDesignPattern
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            var a = new Class1();
-            a.Method1();
+            var fp = new FactoryProgram();
+            fp.Run();
         }
     }
 }
