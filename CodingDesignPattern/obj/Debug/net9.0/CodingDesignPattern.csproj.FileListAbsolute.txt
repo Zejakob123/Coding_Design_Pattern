@@ -1,0 +1,15 @@
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\bin\Debug\net9.0\CodingDesignPattern.exe
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\bin\Debug\net9.0\CodingDesignPattern.deps.json
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\bin\Debug\net9.0\CodingDesignPattern.runtimeconfig.json
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\bin\Debug\net9.0\CodingDesignPattern.dll
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\bin\Debug\net9.0\CodingDesignPattern.pdb
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.AssemblyInfoInputs.cache
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.AssemblyInfo.cs
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.sourcelink.json
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.dll
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\refint\CodingDesignPattern.dll
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.pdb
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\CodingDesignPattern.genruntimeconfig.cache
+C:\Users\lweeh\OneDrive\Documents\GitHub\Coding_Design_Pattern\CodingDesignPattern\obj\Debug\net9.0\ref\CodingDesignPattern.dll
