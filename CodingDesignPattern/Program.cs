@@ -3,6 +3,8 @@ using CodingDesignPattern.src.creational.factory;
 using CodingDesignPattern.src.creational.builder;
 using CodingDesignPattern.src.creational.prototype;
 
+using CodingDesignPattern.src.behavioural.strategy;
+
 namespace CodingDesignPattern
 {
     class Program
@@ -18,7 +20,11 @@ namespace CodingDesignPattern
             bp.Run(); */
 
             // Prototype Pattern
-            new PrototypePatternDemo().Run();
+            // new PrototypePatternDemo().Run();
+
+            // Strategy Pattern
+            var sp = new StrategyProgram();
+            sp.Run();
         }
     }
 }
