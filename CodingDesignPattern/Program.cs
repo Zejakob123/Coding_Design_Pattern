@@ -5,6 +5,7 @@ using CodingDesignPattern.src.creational.prototype;
 
 using CodingDesignPattern.src.behavioural.strategy;
 using CodingDesignPattern.src.behavioural.visitor;
+using CodingDesignPattern.src.behavioural.chainOfResponsibility;
 
 namespace CodingDesignPattern
 {
@@ -28,8 +29,11 @@ namespace CodingDesignPattern
             // sp.Run();
 
             // Visitor Pattern
-            var vp = new VisitorProgram();
-            vp.Run();
+            // var vp = new VisitorProgram();
+            // vp.Run();
+
+            // Chain of Responsibility Pattern
+            new CORProgram().Run();
         }
     }
 }
