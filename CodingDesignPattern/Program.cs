@@ -4,6 +4,7 @@ using CodingDesignPattern.src.creational.builder;
 using CodingDesignPattern.src.creational.prototype;
 
 using CodingDesignPattern.src.behavioural.strategy;
+using CodingDesignPattern.src.behavioural.visitor;
 
 namespace CodingDesignPattern
 {
@@ -23,8 +24,12 @@ namespace CodingDesignPattern
             // new PrototypePatternDemo().Run();
 
             // Strategy Pattern
-            var sp = new StrategyProgram();
-            sp.Run();
+            // var sp = new StrategyProgram();
+            // sp.Run();
+
+            // Visitor Pattern
+            var vp = new VisitorProgram();
+            vp.Run();
         }
     }
 }
