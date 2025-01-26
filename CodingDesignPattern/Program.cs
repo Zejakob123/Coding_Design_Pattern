@@ -6,6 +6,7 @@ using CodingDesignPattern.src.creational.prototype;
 using CodingDesignPattern.src.behavioural.strategy;
 using CodingDesignPattern.src.behavioural.visitor;
 using CodingDesignPattern.src.behavioural.chainOfResponsibility;
+using CodingDesignPattern.src.behavioural.command;
 
 namespace CodingDesignPattern
 {
@@ -33,7 +34,10 @@ namespace CodingDesignPattern
             // vp.Run();
 
             // Chain of Responsibility Pattern
-            new CORProgram().Run();
+            // new CORProgram().Run();
+
+            // Command Pattern
+            new CommandProgram().Run();
         }
     }
 }
