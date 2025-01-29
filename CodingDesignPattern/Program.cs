@@ -7,6 +7,7 @@ using CodingDesignPattern.src.behavioural.strategy;
 using CodingDesignPattern.src.behavioural.visitor;
 using CodingDesignPattern.src.behavioural.chainOfResponsibility;
 using CodingDesignPattern.src.behavioural.command;
+using CodingDesignPattern.src.behavioural.state;
 
 namespace CodingDesignPattern
 {
@@ -37,7 +38,10 @@ namespace CodingDesignPattern
             // new CORProgram().Run();
 
             // Command Pattern
-            new CommandProgram().Run();
+            // new CommandProgram().Run();
+
+            // State Pattern
+            new StateProgram().Run();
         }
     }
 }
