@@ -8,6 +8,7 @@ using CodingDesignPattern.src.behavioural.visitor;
 using CodingDesignPattern.src.behavioural.chainOfResponsibility;
 using CodingDesignPattern.src.behavioural.command;
 using CodingDesignPattern.src.behavioural.state;
+using CodingDesignPattern.src.behavioural.memento;
 
 namespace CodingDesignPattern
 {
@@ -41,7 +42,10 @@ namespace CodingDesignPattern
             // new CommandProgram().Run();
 
             // State Pattern
-            new StateProgram().Run();
+            // new StateProgram().Run();
+
+            // Memento Pattern
+            new MementoProgram().Run();
         }
     }
 }
