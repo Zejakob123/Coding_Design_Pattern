@@ -10,6 +10,7 @@ using CodingDesignPattern.src.behavioural.command;
 using CodingDesignPattern.src.behavioural.state;
 using CodingDesignPattern.src.behavioural.memento;
 using CodingDesignPattern.src.behavioural.iterator;
+using CodingDesignPattern.src.behavioural.mediator;
 
 namespace CodingDesignPattern
 {
@@ -49,7 +50,10 @@ namespace CodingDesignPattern
             // new MementoProgram().Run();
 
             // Iterator Pattern
-            new IteratorProgram().Run();
+            // new IteratorProgram().Run();s
+
+            // Mediator Pattern
+            new MediatorProgram().Run();
         }
     }
 }
