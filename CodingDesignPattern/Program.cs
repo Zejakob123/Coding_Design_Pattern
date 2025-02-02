@@ -11,6 +11,7 @@ using CodingDesignPattern.src.behavioural.state;
 using CodingDesignPattern.src.behavioural.memento;
 using CodingDesignPattern.src.behavioural.iterator;
 using CodingDesignPattern.src.behavioural.mediator;
+using CodingDesignPattern.src.behavioural.observer;
 
 namespace CodingDesignPattern
 {
@@ -53,7 +54,10 @@ namespace CodingDesignPattern
             // new IteratorProgram().Run();s
 
             // Mediator Pattern
-            new MediatorProgram().Run();
+            // new MediatorProgram().Run();
+
+            // Observer Pattern
+            // new ObserverProgram().Run();
         }
     }
 }
