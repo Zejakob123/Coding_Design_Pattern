@@ -12,6 +12,7 @@ using CodingDesignPattern.src.behavioural.memento;
 using CodingDesignPattern.src.behavioural.iterator;
 using CodingDesignPattern.src.behavioural.mediator;
 using CodingDesignPattern.src.behavioural.observer;
+using CodingDesignPattern.src.behavioural.templateMethod;
 
 namespace CodingDesignPattern
 {
@@ -58,6 +59,9 @@ namespace CodingDesignPattern
 
             // Observer Pattern
             // new ObserverProgram().Run();
+
+            // Template Method Pattern
+            new TemplateMethodProgram().Run();
         }
     }
 }
