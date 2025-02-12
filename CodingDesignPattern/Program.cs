@@ -15,6 +15,7 @@ using CodingDesignPattern.src.behavioural.observer;
 using CodingDesignPattern.src.behavioural.templateMethod;
 using CodingDesignPattern.src.structural.adapter;
 using CodingDesignPattern.src.structural.bridge;
+using CodingDesignPattern.src.structural.composite;
 
 namespace CodingDesignPattern
 {
@@ -69,7 +70,10 @@ namespace CodingDesignPattern
             // new AdapterProgram().Run();
 
             // Bridge Pattern
-            new BridgeProgram().Run();
+            // new BridgeProgram().Run();
+
+            // Composite Pattern
+            new CompositeProgram().Run();
         }
     }
 }
