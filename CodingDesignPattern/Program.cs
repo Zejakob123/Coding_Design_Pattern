@@ -18,6 +18,9 @@ using CodingDesignPattern.src.structural.bridge;
 using CodingDesignPattern.src.structural.composite;
 using CodingDesignPattern.src.structural.decorator;
 using CodingDesignPattern.src.structural.facade;
+using CodingDesignPattern.src.structural.flyweight;
+using CodingDesignPattern.src.structural.flyweight;
+using CodingDesignPattern.src.structural.proxy;
 
 namespace CodingDesignPattern
 {
@@ -81,7 +84,13 @@ namespace CodingDesignPattern
             // new DecoratorProgram().Run();
 
             // Facade Pattern
-            new FacadeProgram().Run();
+            // new FacadeProgram().Run();
+
+            // Flyweight Pattern
+            // new FlyweightProgram().Run();
+
+            // Proxy Pattern
+            new ProxyProgram().Run();
         }
     }
 }
