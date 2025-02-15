@@ -16,6 +16,7 @@ using CodingDesignPattern.src.behavioural.templateMethod;
 using CodingDesignPattern.src.structural.adapter;
 using CodingDesignPattern.src.structural.bridge;
 using CodingDesignPattern.src.structural.composite;
+using CodingDesignPattern.src.structural.decorator;
 
 namespace CodingDesignPattern
 {
@@ -73,7 +74,10 @@ namespace CodingDesignPattern
             // new BridgeProgram().Run();
 
             // Composite Pattern
-            new CompositeProgram().Run();
+            // new CompositeProgram().Run();
+
+            // Decorator Pattern
+            new DecoratorProgram().Run();
         }
     }
 }
