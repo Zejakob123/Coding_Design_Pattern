@@ -17,6 +17,7 @@ using CodingDesignPattern.src.structural.adapter;
 using CodingDesignPattern.src.structural.bridge;
 using CodingDesignPattern.src.structural.composite;
 using CodingDesignPattern.src.structural.decorator;
+using CodingDesignPattern.src.structural.facade;
 
 namespace CodingDesignPattern
 {
@@ -77,7 +78,10 @@ namespace CodingDesignPattern
             // new CompositeProgram().Run();
 
             // Decorator Pattern
-            new DecoratorProgram().Run();
+            // new DecoratorProgram().Run();
+
+            // Facade Pattern
+            new FacadeProgram().Run();
         }
     }
 }
